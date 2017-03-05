@@ -1,0 +1,13 @@
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\bin\Debug\SqlTutorial.exe.config
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.Form1.resources
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.Properties.Resources.resources
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.csproj.GenerateResource.Cache
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\bin\Debug\SqlTutorial.exe
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\bin\Debug\SqlTutorial.pdb
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\bin\Debug\MySql.Data.dll
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\bin\Debug\MySql.Data.xml
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.exe
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.pdb
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.Form2.resources
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.HomePage.resources
+C:\Users\Serkan\Source\Workspaces\Workspace\SQL Tutorial\SqlTutorial\obj\Debug\SqlTutorial.csprojResolveAssemblyReference.cache
